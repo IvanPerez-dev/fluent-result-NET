@@ -1,0 +1,15 @@
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\bin\Debug\net9.0\Osom.FluentRestult.Application.deps.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\bin\Debug\net9.0\Osom.FluentRestult.Application.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\bin\Debug\net9.0\Osom.FluentRestult.Application.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\bin\Debug\net9.0\Osom.FluentRestult.Domain.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\bin\Debug\net9.0\Osom.FluentRestult.Domain.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.FluentRestult.Application.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.FluentRestult.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.FluentRestult.Application.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.FluentRestult.Application.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.FluentRestult.Application.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.Flu.2DE3B31E.Up2Date
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.FluentRestult.Application.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\refint\Osom.FluentRestult.Application.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\Osom.FluentRestult.Application.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Application\obj\Debug\net9.0\ref\Osom.FluentRestult.Application.dll

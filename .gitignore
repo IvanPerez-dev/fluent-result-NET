@@ -1,0 +1,29 @@
+**.ddl
+**.dml
+**.sql
+**/migrations/*.sql
+**/migrations/*.ddl
+**/migrations/*.dml
+
+# Ignore all .env files
+**.env
+**.env.*
+**/config/*.env
+**/config/*.env.*
+**/config/**/*.env
+**/config/**/*.env.*
+
+**/bin
+**/obj
+**/out
+**/dist
+**/build
+**/coverage
+
+
+# Ignore IDE and editor specific files
+.vscode/
+.idea/
+*.suo
+
+**/.vs

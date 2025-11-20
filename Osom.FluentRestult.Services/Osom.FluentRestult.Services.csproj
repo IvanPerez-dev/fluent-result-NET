@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Osom.FluentRestult.Application\Osom.FluentRestult.Application.csproj" />
+    <ProjectReference Include="..\Osom.FluentRestult.Domain\Osom.FluentRestult.Domain.csproj" />
+  </ItemGroup>
+
+</Project>
