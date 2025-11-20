@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "pnBizepWwwY=",
+  "dgSpecHash": "PHerHhjVfNY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\Osom.FluentRestult\\Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj",
+  "projectFilePath": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USUARIO\\.nuget\\packages\\fluentresults\\4.0.0\\fluentresults.4.0.0.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
-    "C:\\Users\\USUARIO\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
+    "C:\\Users\\ISP2\\.nuget\\packages\\fluentresults\\4.0.0\\fluentresults.4.0.0.nupkg.sha512",
+    "C:\\Users\\ISP2\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.1\\microsoft.extensions.logging.abstractions.2.1.1.nupkg.sha512",
+    "C:\\Users\\ISP2\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512"
   ],
   "logs": []
 }

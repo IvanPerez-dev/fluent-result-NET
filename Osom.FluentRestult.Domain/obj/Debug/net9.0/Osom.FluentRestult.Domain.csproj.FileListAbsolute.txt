@@ -10,3 +10,16 @@ C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Domain\obj\Debug\
 C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Domain\obj\Debug\net9.0\refint\Osom.FluentRestult.Domain.dll
 C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.pdb
 C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.Domain\obj\Debug\net9.0\ref\Osom.FluentRestult.Domain.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\bin\Debug\net9.0\Osom.FluentRestult.Domain.deps.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\bin\Debug\net9.0\Osom.FluentRestult.Domain.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\bin\Debug\net9.0\Osom.FluentRestult.Domain.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.csproj.AssemblyReference.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.AssemblyInfoInputs.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.AssemblyInfo.cs
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.sourcelink.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\refint\Osom.FluentRestult.Domain.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\Osom.FluentRestult.Domain.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.Domain\obj\Debug\net9.0\ref\Osom.FluentRestult.Domain.dll

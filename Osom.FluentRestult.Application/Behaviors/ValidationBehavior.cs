@@ -1,11 +1,13 @@
+using FluentResults;
 using FluentValidation;
 using MediatR;
-using AppContext = Osom.FluentRestult.Application.Exceptions;
+using Osom.FluentRestult.Domain.Errors.Common;
 
 namespace Osom.FluentRestult.Application.Behaviors
 {
     public class ValidationBehavior<TRequest, TResponse> : IPipelineBehavior<TRequest, TResponse>
         where TRequest : IRequest<TResponse>
+        where TResponse : ResultBase, new()
     {
         private readonly IEnumerable<IValidator<TRequest>> _validators;
 
@@ -20,33 +22,37 @@ namespace Osom.FluentRestult.Application.Behaviors
             CancellationToken cancellationToken
         )
         {
-            if (_validators.Any())
-            {
-                var context = new ValidationContext<TRequest>(request);
+            if (!_validators.Any())
+                return await next();
 
-                var validationResults = await Task.WhenAll(
-                    _validators.Select(v => v.ValidateAsync(context, cancellationToken))
-                );
+            var context = new ValidationContext<TRequest>(request);
 
-                var failures = validationResults
-                    //.Select( v => v.ValidateAsync(context))
-                    .SelectMany(result => result.Errors)
-                    .Where(f => f != null)
-                    .ToList();
+            var validationResults = await Task.WhenAll(
+                _validators.Select(v => v.ValidateAsync(context, cancellationToken))
+            );
 
-                if (failures.Count != 0)
-                {
-                    var failuresGruped = failures.GroupBy(x => x.PropertyName);
+            var failures = validationResults
+                //.Select( v => v.ValidateAsync(context))
+                .SelectMany(result => result.Errors)
+                .Where(f => f != null)
+                .ToList();
 
-                    var errors = failuresGruped.Select(x => new KeyValuePair<string, List<string>>(
-                        x.Key,
-                        x.Select(y => y.ErrorMessage).ToList()
-                    ));
+            if (failures.Count == 0)
+                return await next();
 
-                    throw new AppContext.ValidationException(errors);
-                }
-            }
-            return await next();
+            var validationErros = failures
+                .GroupBy(x => x.PropertyName)
+                .ToDictionary(g => g.Key, g => g.Select(x => x.ErrorMessage).ToList());
+
+            var validationError = new ValidationError("Uno o más errores de validación ocurrieron");
+
+            validationError.Metadata["Errors"] = validationErros;
+
+            var result = new TResponse();
+
+            result.Reasons.Add(validationError);
+
+            return result;
         }
     }
 }

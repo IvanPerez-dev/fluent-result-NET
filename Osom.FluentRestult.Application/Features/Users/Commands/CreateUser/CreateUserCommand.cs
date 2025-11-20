@@ -1,5 +1,4 @@
-using FluentResults;
-using MediatR;
+using Osom.FluentRestult.Application.Interfaces;
 
 namespace Osom.FluentRestult.Application.Features.Users.Commands.CreateUser
 {
@@ -8,5 +7,5 @@ namespace Osom.FluentRestult.Application.Features.Users.Commands.CreateUser
         string LastName,
         string Email,
         string Password
-    ) : IRequest<Result<CreateUserResponse>>;
+    ) : ICommand<CreateUserResponse>;
 }

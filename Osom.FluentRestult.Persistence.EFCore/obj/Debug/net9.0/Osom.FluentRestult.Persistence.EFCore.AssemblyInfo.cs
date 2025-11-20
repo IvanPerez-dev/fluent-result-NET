@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Osom.FluentRestult.Persistence.EFCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fce4b4e3a457509323c66fd4fb1e80a02fb9a21")]
 [assembly: System.Reflection.AssemblyProductAttribute("Osom.FluentRestult.Persistence.EFCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Osom.FluentRestult.Persistence.EFCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

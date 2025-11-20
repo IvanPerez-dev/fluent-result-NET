@@ -1,6 +1,6 @@
 ﻿using FluentResults;
 
-namespace Osom.FluentRestult.Domain.Errors
+namespace Osom.FluentRestult.Domain.Errors.Users
 {
     public sealed class UserNotFoundError : Error
     {

@@ -9,5 +9,7 @@ namespace Osom.FluentRestult.Domain.Persistence
         public Task<User> GetAsync(string email);
         public Task AddAsync(User user);
         public Task UpdateAsync(User user);
+
+        public Task DeleteAsync(User user);
     }
 }
