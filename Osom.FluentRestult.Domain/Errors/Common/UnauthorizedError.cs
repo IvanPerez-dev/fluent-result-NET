@@ -1,13 +1,11 @@
-﻿using FluentResults;
-
-namespace Osom.FluentRestult.Domain.Errors.Common
+﻿namespace Osom.FluentRestult.Domain.Errors.Common
 {
-    public sealed class UnauthorizedError : Error
+    public sealed class UnauthorizedError : DomainError
     {
         public UnauthorizedError(string message)
-            : base(message)
+            : base(message, "UNAUTHORIZED")
         {
-            Metadata.Add("ErrorCode", "Unauthorized");
+            //Metadata.Add(MetadataKeys.ErrorCode, );
         }
     }
 }

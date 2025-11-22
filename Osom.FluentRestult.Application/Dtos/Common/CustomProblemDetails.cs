@@ -12,7 +12,10 @@ namespace Osom.FluentRestult.Application.Dtos.Common
         public string Type { get; set; }
 
         [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
-        public IDictionary<string, List<string>> Errors { get; set; }
+        public IDictionary<string, List<string>>? Errors { get; set; }
+
+        [JsonIgnore(Condition = JsonIgnoreCondition.WhenWritingNull)]
+        public IDictionary<string, object>? Metadata { get; set; }
 
         public CustomProblemDetails(
             string title,

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Osom.FluentRestult.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1fce4b4e3a457509323c66fd4fb1e80a02fb9a21")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20926b2d0ae32958ad7cf29099a2aa60e8458d8f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Osom.FluentRestult.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Osom.FluentRestult.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

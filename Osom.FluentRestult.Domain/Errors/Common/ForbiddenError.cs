@@ -2,12 +2,12 @@
 
 namespace Osom.FluentRestult.Domain.Errors.Common
 {
-    public sealed class ForbiddenError : Error
+    public sealed class ForbiddenError : DomainError
     {
         public ForbiddenError(string message)
-            : base(message)
+            : base(message, "FORBIDDEN")
         {
-            Metadata.Add("ErrorCode", "Forbidden");
+            //Metadata.Add(MetadataKeys.ErrorCode, "FORBIDDEN");
         }
     }
 }

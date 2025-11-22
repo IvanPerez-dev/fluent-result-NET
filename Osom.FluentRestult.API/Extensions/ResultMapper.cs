@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Mvc;
 using Osom.FluentRestult.API.Configurations;
 using Osom.FluentRestult.Application.Dtos.Common;
+using Osom.FluentRestult.Domain.Errors;
 using Osom.FluentRestult.Domain.Errors.Common;
 
 namespace Osom.FluentRestult.API.Extensions
@@ -147,42 +148,45 @@ namespace Osom.FluentRestult.API.Extensions
                 return mapper(error);
 
             // Fallback genérico
-            return _controller.UnprocessableEntity(Problem(error, 422));
+            return _controller.UnprocessableEntity(
+                Problem(error, StatusCodes.Status422UnprocessableEntity)
+            );
         }
 
         private CustomProblemDetails Problem(Error error, int status)
         {
-            var title = status switch
+            var errorTypeInfo = ErrorConfiguration.GetErrorInfo(status);
+            //var code = error.Metadata.TryGetValue(MetadataKeys.ErrorCode, out var c)
+            //    ? c?.ToString() ?? "UNKNOWN_ERROR"
+            //    : "UNKNOWN_ERROR";
+
+            string errorCode = "UNKNOWN_ERROR";
+            if (error is DomainError domainError)
             {
-                400 => "Invalid request",
-                401 => "Unauthorized",
-                403 => "Forbidden",
-                404 => "Resource not found",
-                409 => "Conflict",
-                422 => "Business rule violation",
-                _ => "An error occurred",
-            };
+                errorCode = domainError.ErrorCode;
+            }
 
-            string typeUrl = ErrorTypes.Documentation.GetValueOrDefault(
-                status,
-                "https://tools.ietf.org/html/rfc2616#section-10"
-            );
-            var code = error.Metadata.TryGetValue("ErrorCode", out var c)
-                ? c?.ToString() ?? "UNKNOWN_ERROR"
-                : "UNKNOWN_ERROR";
-
-            var errors = error.Metadata["Errors"] as Dictionary<string, List<string>>;
-            return new CustomProblemDetails(
-                title: title,
-                detail: error.Message,
-                type: typeUrl,
+            var problemDetails = new CustomProblemDetails(
+                title: errorTypeInfo.Title,
+                detail: error.Message ?? errorTypeInfo.Detail,
+                type: errorTypeInfo.Type,
                 status: status,
                 instance: _controller.HttpContext.Request.Path
             )
             {
-                Code = code,
-                Errors = errors,
+                Code = errorCode,
+                Metadata = error.Metadata,
             };
+
+            if (
+                error.Metadata.TryGetValue(MetadataKeys.ValidationErrors, out var errorObject)
+                && errorObject is Dictionary<string, List<string>> validationErrors
+            )
+            {
+                problemDetails.Errors = validationErrors;
+            }
+
+            return problemDetails;
         }
     }
 }

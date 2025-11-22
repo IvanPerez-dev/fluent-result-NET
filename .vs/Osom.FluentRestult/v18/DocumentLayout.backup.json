@@ -7,48 +7,8 @@
       "RelativeMoniker": "D:0:0:{6783067C-0A22-4B48-8B97-52203A4EE108}|Osom.FluentRestult.API\\Osom.FluentRestult.API.csproj|solutionrelative:osom.fluentrestult.api\\extensions\\resultmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|solutionrelative:osom.fluentrestult.application\\behaviors\\validationbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.domain\\errors\\common\\conflicterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|solutionrelative:osom.fluentrestult.domain\\errors\\common\\conflicterror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6783067C-0A22-4B48-8B97-52203A4EE108}|Osom.FluentRestult.API\\Osom.FluentRestult.API.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6783067C-0A22-4B48-8B97-52203A4EE108}|Osom.FluentRestult.API\\Osom.FluentRestult.API.csproj|solutionrelative:osom.fluentrestult.api\\controllers\\baseapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.application\\features\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|solutionrelative:osom.fluentrestult.application\\features\\users\\commands\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6783067C-0A22-4B48-8B97-52203A4EE108}|Osom.FluentRestult.API\\Osom.FluentRestult.API.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6783067C-0A22-4B48-8B97-52203A4EE108}|Osom.FluentRestult.API\\Osom.FluentRestult.API.csproj|solutionrelative:osom.fluentrestult.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.application\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|solutionrelative:osom.fluentrestult.application\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6783067C-0A22-4B48-8B97-52203A4EE108}|Osom.FluentRestult.API\\Osom.FluentRestult.API.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.api\\exceptionhandlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6783067C-0A22-4B48-8B97-52203A4EE108}|Osom.FluentRestult.API\\Osom.FluentRestult.API.csproj|solutionrelative:osom.fluentrestult.api\\exceptionhandlers\\globalexceptionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.domain\\errors\\users\\usernotfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|solutionrelative:osom.fluentrestult.domain\\errors\\users\\usernotfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.domain\\errors\\common\\notfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|solutionrelative:osom.fluentrestult.domain\\errors\\common\\notfounderror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.domain\\errors\\common\\unauthorizederror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB5BC56-48C6-42BE-A15E-D0B096F7126F}|Osom.FluentRestult.Domain\\Osom.FluentRestult.Domain.csproj|solutionrelative:osom.fluentrestult.domain\\errors\\common\\unauthorizederror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|c:\\users\\isp2\\documents\\mis archivos\\mis proyectos\\fluent-result-net\\osom.fluentrestult.application\\features\\users\\queries\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B769930-A37C-4BA4-9233-9411192EABE6}|Osom.FluentRestult.Application\\Osom.FluentRestult.Application.csproj|solutionrelative:osom.fluentrestult.application\\features\\users\\queries\\getallusers\\getallusersqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,158 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ValidationBehavior.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.Application\\Behaviors\\ValidationBehavior.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\Behaviors\\ValidationBehavior.cs",
-              "RelativeToolTip": "Osom.FluentRestult.Application\\Behaviors\\ValidationBehavior.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwCwAAABXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:42:31.733Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ResultMapper.cs",
               "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\Extensions\\ResultMapper.cs",
               "RelativeDocumentMoniker": "Osom.FluentRestult.API\\Extensions\\ResultMapper.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\Extensions\\ResultMapper.cs*",
-              "RelativeToolTip": "Osom.FluentRestult.API\\Extensions\\ResultMapper.cs*",
-              "ViewState": "AgIAAKIAAAAAAAAAAAAuwLgAAAAOAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\Extensions\\ResultMapper.cs",
+              "RelativeToolTip": "Osom.FluentRestult.API\\Extensions\\ResultMapper.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAqwJQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T18:56:03.299Z",
+              "WhenOpened": "2025-11-22T19:17:39.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DependencyContainer.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\DependencyContainer.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.Application\\DependencyContainer.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\DependencyContainer.cs",
-              "RelativeToolTip": "Osom.FluentRestult.Application\\DependencyContainer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T20:10:54.236Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "Osom.FluentRestult.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:52:04.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DeleteUserCommand.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "RelativeToolTip": "Osom.FluentRestult.Application\\Features\\Users\\Commands\\DeleteUser\\DeleteUserCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T17:47:43.842Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ConflictError.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Common\\ConflictError.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.Domain\\Errors\\Common\\ConflictError.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Common\\ConflictError.cs",
-              "RelativeToolTip": "Osom.FluentRestult.Domain\\Errors\\Common\\ConflictError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:18:08.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BaseApiController.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\Controllers\\BaseApiController.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.API\\Controllers\\BaseApiController.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\Controllers\\BaseApiController.cs",
-              "RelativeToolTip": "Osom.FluentRestult.API\\Controllers\\BaseApiController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T03:22:14.624Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GlobalExceptionHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\ExceptionHandlers\\GlobalExceptionHandler.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.API\\ExceptionHandlers\\GlobalExceptionHandler.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.API\\ExceptionHandlers\\GlobalExceptionHandler.cs",
-              "RelativeToolTip": "Osom.FluentRestult.API\\ExceptionHandlers\\GlobalExceptionHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T03:42:12.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UserNotFoundError.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Users\\UserNotFoundError.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.Domain\\Errors\\Users\\UserNotFoundError.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Users\\UserNotFoundError.cs",
-              "RelativeToolTip": "Osom.FluentRestult.Domain\\Errors\\Users\\UserNotFoundError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T15:33:14.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "NotFoundError.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Common\\NotFoundError.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.Domain\\Errors\\Common\\NotFoundError.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Common\\NotFoundError.cs",
-              "RelativeToolTip": "Osom.FluentRestult.Domain\\Errors\\Common\\NotFoundError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:18:13.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 1,
               "Title": "UnauthorizedError.cs",
               "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Common\\UnauthorizedError.cs",
               "RelativeDocumentMoniker": "Osom.FluentRestult.Domain\\Errors\\Common\\UnauthorizedError.cs",
               "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Domain\\Errors\\Common\\UnauthorizedError.cs",
               "RelativeToolTip": "Osom.FluentRestult.Domain\\Errors\\Common\\UnauthorizedError.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T16:17:21.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetAllUsersQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
-              "RelativeDocumentMoniker": "Osom.FluentRestult.Application\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
-              "ToolTip": "C:\\Users\\ISP2\\Documents\\Mis archivos\\Mis proyectos\\fluent-result-NET\\Osom.FluentRestult.Application\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
-              "RelativeToolTip": "Osom.FluentRestult.Application\\Features\\Users\\Queries\\GetAllUsers\\GetAllUsersQueryHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-20T14:51:02.093Z",
+              "WhenOpened": "2025-11-22T03:30:16.096Z",
               "EditorCaption": ""
             }
           ]
