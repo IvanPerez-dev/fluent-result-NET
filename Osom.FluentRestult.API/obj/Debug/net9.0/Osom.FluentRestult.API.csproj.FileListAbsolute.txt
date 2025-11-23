@@ -1,0 +1,133 @@
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\appsettings.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.staticwebassets.endpoints.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.exe
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.deps.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.runtimeconfig.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\FluentResults.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\MediatR.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Application.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Domain.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.IoC.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Application.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.IoC.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Domain.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\scopedcss\bundle\Osom.FluentRestult.API.styles.css
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.Flu.AE378C5A.Up2Date
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\refint\Osom.FluentRestult.API.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.API\obj\Debug\net9.0\ref\Osom.FluentRestult.API.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\appsettings.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.staticwebassets.endpoints.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.exe
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.deps.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.runtimeconfig.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.API.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\AutoMapper.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\FluentResults.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\MediatR.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\MediatR.Contracts.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Application.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Domain.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.IoC.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Application.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.IoC.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Domain.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.csproj.AssemblyReference.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.AssemblyInfoInputs.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.AssemblyInfo.cs
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.csproj.CoreCompileInputs.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.sourcelink.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\scopedcss\bundle\Osom.FluentRestult.API.styles.css
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\swae.build.ex.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.Flu.AE378C5A.Up2Date
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\refint\Osom.FluentRestult.API.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\Osom.FluentRestult.API.genruntimeconfig.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.API\obj\Debug\net9.0\ref\Osom.FluentRestult.API.dll

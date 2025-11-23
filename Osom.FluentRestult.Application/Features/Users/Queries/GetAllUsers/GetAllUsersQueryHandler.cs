@@ -1,11 +1,12 @@
 using AutoMapper;
-using Osom.FluentRestult.Domain.Persistence;
+using FluentResults;
 using MediatR;
+using Osom.FluentRestult.Domain.Persistence;
 
 namespace Osom.FluentRestult.Application.Features.Users.Queries.GetAllUsers
 {
     internal class GetAllUsersQueryHandler
-        : IRequestHandler<GetAllUsersQuery, List<GetAllUsersResponse>>
+        : IRequestHandler<GetAllUsersQuery, Result<List<GetAllUsersResponse>>>
     {
         private readonly IUserRepository _userRepository;
         private readonly IMapper _mapper;
@@ -16,7 +17,7 @@ namespace Osom.FluentRestult.Application.Features.Users.Queries.GetAllUsers
             _mapper = mapper;
         }
 
-        public async Task<List<GetAllUsersResponse>> Handle(
+        public async Task<Result<List<GetAllUsersResponse>>> Handle(
             GetAllUsersQuery request,
             CancellationToken cancellationToken
         )

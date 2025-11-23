@@ -1,0 +1,39 @@
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.IoC.deps.json
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.IoC.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.IoC.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Application.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Domain.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Application.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Domain.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.Flu.8A855F14.Up2Date
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\refint\Osom.FluentRestult.IoC.dll
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.pdb
+C:\Users\USUARIO\Desktop\Osom.FluentRestult\Osom.FluentRestult.IoC\obj\Debug\net9.0\ref\Osom.FluentRestult.IoC.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.IoC.deps.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.IoC.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.IoC.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Application.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Domain.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Application.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Persistence.EFCore.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\bin\Debug\net9.0\Osom.FluentRestult.Domain.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.csproj.AssemblyReference.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.AssemblyInfoInputs.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.AssemblyInfo.cs
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.csproj.CoreCompileInputs.cache
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.sourcelink.json
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.Flu.8A855F14.Up2Date
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\refint\Osom.FluentRestult.IoC.dll
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\Osom.FluentRestult.IoC.pdb
+C:\Users\ISP2\Documents\Mis archivos\Mis proyectos\fluent-result-NET\Osom.FluentRestult.IoC\obj\Debug\net9.0\ref\Osom.FluentRestult.IoC.dll

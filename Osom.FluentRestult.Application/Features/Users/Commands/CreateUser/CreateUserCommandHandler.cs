@@ -2,7 +2,7 @@ using AutoMapper;
 using FluentResults;
 using MediatR;
 using Osom.FluentRestult.Domain.Entities;
-using Osom.FluentRestult.Domain.Errors;
+using Osom.FluentRestult.Domain.Errors.Users;
 using Osom.FluentRestult.Domain.Persistence;
 
 namespace Osom.FluentRestult.Application.Features.Users.Commands.CreateUser
@@ -24,6 +24,12 @@ namespace Osom.FluentRestult.Application.Features.Users.Commands.CreateUser
             CancellationToken cancellationToken
         )
         {
+            var userExists = await _userRepository.GetAsync(request.Email);
+            if (userExists is not null)
+            {
+                return Result.Fail<CreateUserResponse>(new UserAlreadyExistsError(request.Email));
+            }
+
             var userCreated = User.Create(
                 request.FirstName,
                 request.LastName,
@@ -31,12 +37,13 @@ namespace Osom.FluentRestult.Application.Features.Users.Commands.CreateUser
                 request.Password
             );
 
-            //return Result.Fail<CreateUserResponse>(new UserNotFoundError(1));
+            //if (userCreated.IsFailed)
+            //{
+            //    return Result.Fail<CreateUserResponse>(userCreated.Errors);
+            //}
 
             if (userCreated.IsFailed)
-            {
-                return Result.Fail<CreateUserResponse>(userCreated.Errors);
-            }
+                return userCreated.ToResult<CreateUserResponse>();
 
             await _userRepository.AddAsync(userCreated.Value);
             var userResponse = _mapper.Map<CreateUserResponse>(userCreated.Value);

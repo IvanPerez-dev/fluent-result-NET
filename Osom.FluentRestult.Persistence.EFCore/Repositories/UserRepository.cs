@@ -1,7 +1,7 @@
+using Microsoft.EntityFrameworkCore;
 using Osom.FluentRestult.Domain.Entities;
 using Osom.FluentRestult.Domain.Persistence;
 using Osom.FluentRestult.Persistence.EFCore.Contexts;
-using Microsoft.EntityFrameworkCore;
 
 namespace Osom.FluentRestult.Persistence.EFCore.Repositories
 {
@@ -10,6 +10,12 @@ namespace Osom.FluentRestult.Persistence.EFCore.Repositories
         public async Task AddAsync(User user)
         {
             await companyNameDbContext.Users.AddAsync(user);
+            await companyNameDbContext.SaveChangesAsync();
+        }
+
+        public async Task DeleteAsync(User user)
+        {
+            companyNameDbContext.Users.Remove(user);
             await companyNameDbContext.SaveChangesAsync();
         }
 

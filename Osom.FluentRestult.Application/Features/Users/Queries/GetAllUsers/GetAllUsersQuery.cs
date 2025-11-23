@@ -1,6 +1,7 @@
+using FluentResults;
 using MediatR;
 
 namespace Osom.FluentRestult.Application.Features.Users.Queries.GetAllUsers
 {
-    public class GetAllUsersQuery : IRequest<List<GetAllUsersResponse>> { }
+    public class GetAllUsersQuery : IRequest<Result<List<GetAllUsersResponse>>> { }
 }
