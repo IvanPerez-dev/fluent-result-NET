@@ -6,7 +6,7 @@ namespace Osom.FluentRestult.Domain.Errors.Common
     {
         public string ErrorCode { get; set; }
 
-        public DomainError(string message, string errorCode)
+        public DomainError(string message, string errorCode = "BUSINESS_ERROR")
             : base(message)
         {
             ErrorCode = errorCode;
