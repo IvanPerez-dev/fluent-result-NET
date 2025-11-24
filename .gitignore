@@ -13,8 +13,8 @@
 **/config/**/*.env
 **/config/**/*.env.*
 
-**/bin
-**/obj
+**/bin/
+**/obj/
 **/out
 **/dist
 **/build
@@ -26,4 +26,4 @@
 .idea/
 *.suo
 
-**/.vs
+**/.vs/
