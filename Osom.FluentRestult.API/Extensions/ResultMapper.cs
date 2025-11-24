@@ -125,11 +125,11 @@ namespace Osom.FluentRestult.API.Extensions
                     Problem(err, StatusCodes.Status403Forbidden)
                 )
             );
-            //AddErrorMapper<BusinessRuleError>(err =>
-            //    _controller.UnprocessableEntity(
-            //        Problem(err, StatusCodes.Status422UnprocessableEntity)
-            //    )
-            //);
+            AddErrorMapper<DomainError>(err =>
+                _controller.UnprocessableEntity(
+                    Problem(err, StatusCodes.Status422UnprocessableEntity)
+                )
+            );
         }
 
         public IActionResult Build()
@@ -156,9 +156,6 @@ namespace Osom.FluentRestult.API.Extensions
         private CustomProblemDetails Problem(Error error, int status)
         {
             var errorTypeInfo = ErrorConfiguration.GetErrorInfo(status);
-            //var code = error.Metadata.TryGetValue(MetadataKeys.ErrorCode, out var c)
-            //    ? c?.ToString() ?? "UNKNOWN_ERROR"
-            //    : "UNKNOWN_ERROR";
 
             string errorCode = "UNKNOWN_ERROR";
             if (error is DomainError domainError)
